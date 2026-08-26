@@ -24,11 +24,11 @@ Full Stack Tech Lead
 <h2 align="center">📱 Connect With Me </h2>
 <br />
 <p align="center">
- <a href="https://rajusharma-ship-it.github.io/" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png" alt="Ravi Sharma" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/ravi-sharma-399572219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Ravi Sharma" height="30" width="40" /></a>
-<a href="https://leetcode.com/RaviSharma80595/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ravi.haryanvi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinglaw" height="30" width="40" /></a>
-<a href="https://twitter.com/Ravi11967071" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinglaw" height="30" width="40" /></a>
+ <a href="https://rajusharma-ship-it.github.io/" target="_blank"><img align="center" src="https://cdn3d.iconscout.com/3d/premium/thumb/globe-web-6338348-5220256.png" alt="Raju Sharma" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/raju-sharma-399572219/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Raju Sharma" height="30" width="40" /></a>
+<a href="https://leetcode.com/RajuSharma80595/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="codinglaw" height="30" width="40" /></a>
+<a href="https://www.instagram.com/raju.haryanvi/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codinglaw" height="30" width="40" /></a>
+<a href="https://twitter.com/Raju11967071" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codinglaw" height="30" width="40" /></a>
 </p>
 <br />
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
@@ -79,7 +79,7 @@ Full Stack Tech Lead
 <h2 align="center">📊 My GitHub Stats </h2>
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=rajusharma-ship-it&theme=dark&show_icons=true">
-<img src="https://streak-stats.demolab.com?user=rajusharma-ship-it&theme=github-dark" alt="Ravi" />
+<img src="https://streak-stats.demolab.com?user=rajusharma-ship-it&theme=github-dark" alt="Raju" />
 </div>
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <p align="center"> <img src="https://github-profile-trophy.vercel.app/?username=rajusharma-ship-it&margin-w=15" alt="kkshakya" /> </p>
