@@ -19,7 +19,7 @@ Full Stack Tech Lead
  😄 All of my projects are available at
 <a href="https://github.com/rajusharma-ship-it">My Github Repositories</a><br><br>
  💬 Ask me about HTML, CSS, React, Node.js , Express.js , JavaScript<br><br>
- ⚡ How to reach me **rsharma80595@gmail.com**
+ ⚡ How to reach me **rajusharma98966@gmail.com**
 <img src='https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png' /> 
 <h2 align="center">📱 Connect With Me </h2>
 <br />
